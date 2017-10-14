@@ -752,439 +752,439 @@
 	},
 	{
 		"or": "%d player left",
-		"tr": ""
+		"tr": "%d pelaaja poistui"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": ""
+		"tr": "%d pelaaja ei ole valmis"
 	},
 	{
 		"or": "%d players left",
-		"tr": ""
+		"tr": "%d pelaajat lähtivät"
 	},
 	{
 		"or": "%d players not ready",
-		"tr": ""
+		"tr": "%d pelaajat eivät ole valmiita"
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": ""
+		"tr": "%d palvelimet, pelaajat"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' äänesti potkia '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
+		"tr": "'%s' äänesti siirtää katsojiin pelaajan %s' (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' äänesti vaihtaa serverin vaihtoehtoa '%s' (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": ""
+		"tr": "'%s' yhdisti ja liittyi %s'"
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": ""
+		"tr": "'%s' lähti palvelimelta"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": ""
+		"tr": "'%s' lähti palvelimelta '%s'"
 	},
 	{
-		"or": "'%s' joined the %s",
-		"tr": ""
+		"or": "'%s' joined te %s",
+		"tr": "'%s' liittyi %s'"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
+		"tr": "Ylläpitäjä pakotti vaihtoehdon '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": ""
+		"tr": "Ylläpitäjä pakotti äänestää ei"
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": ""
+		"tr": "Ylläpitäjä pakotti äänestää kyllä"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
+		"tr": "Ylläpitäjä siirsi '%s' katsojiin (%s)"
 	},
 	{
 		"or": "Alp:",
-		"tr": ""
+		"tr": "Alp:"
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": ""
+		"tr": "Anti Aliasing"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
+		"tr": "Oletko varma että haluat uudelleen nimetä demon?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Oletko varma että haluat tallentaa ulkonäön? Jos samanniminen on jo olemassa, se korvataan."
 	},
 	{
 		"or": "Back",
-		"tr": ""
+		"tr": "Takaisin"
 	},
 	{
 		"or": "Basic",
-		"tr": ""
+		"tr": "Perus"
 	},
 	{
 		"or": "Bodies",
-		"tr": ""
+		"tr": "Vartaloja"
 	},
 	{
 		"or": "Borderless window",
-		"tr": ""
+		"tr": "Rajaton Ikkuna"
 	},
 	{
 		"or": "Browser",
-		"tr": ""
+		"tr": "Selain"
 	},
 	{
 		"or": "Color",
-		"tr": ""
+		"tr": "Väri"
 	},
 	{
 		"or": "Crc",
-		"tr": ""
+		"tr": "Crc"
 	},
 	{
 		"or": "Created",
-		"tr": ""
+		"tr": "Teki"
 	},
 	{
 		"or": "Custom",
-		"tr": ""
+		"tr": "Räätälöity"
 	},
 	{
 		"or": "Customize",
-		"tr": ""
+		"tr": "Muokkaa"
 	},
 	{
 		"or": "Decoration",
-		"tr": ""
+		"tr": "Koriste"
 	},
 	{
 		"or": "Demo",
-		"tr": ""
+		"tr": "Demo"
 	},
 	{
 		"or": "Detail",
-		"tr": ""
+		"tr": "Yksityiskohta"
 	},
 	{
 		"or": "Editor",
-		"tr": ""
+		"tr": "Muokkaus ohjelma"
 	},
 	{
 		"or": "Eyes",
-		"tr": ""
+		"tr": "Silmät"
 	},
 	{
 		"or": "Format",
-		"tr": ""
+		"tr": "Formaatti"
 	},
 	{
 		"or": "Game paused",
-		"tr": ""
+		"tr": "Peli pysäytetty"
 	},
 	{
 		"or": "Game starts in",
-		"tr": ""
+		"tr": "Peli alkaa ajassa"
 	},
 	{
 		"or": "Global",
-		"tr": ""
+		"tr": "Globaali"
 	},
 	{
 		"or": "Hands",
-		"tr": ""
+		"tr": "Kädet"
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Hostin osoite"
 	},
 	{
 		"or": "Hue:",
-		"tr": ""
+		"tr": "Sävy"
 	},
 	{
 		"or": "Join",
-		"tr": ""
+		"tr": "Liity"
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Liittyi"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Liittyi sinisille"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Liittyi punaisille"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": ""
+		"tr": "Potkimisen äänestys vaatii %d pelaajaa palvelimelle"
 	},
 	{
 		"or": "Laser",
-		"tr": ""
+		"tr": "Laaseri"
 	},
 	{
 		"or": "Length",
-		"tr": ""
+		"tr": "Pituus"
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
+		"tr": "Postilaatikko"
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
-		"tr": ""
+		"tr": "Paikallinen"
 	},
 	{
 		"or": "Local server",
-		"tr": ""
+		"tr": "Paikkallinen palvelin"
 	},
 	{
 		"or": "Match",
-		"tr": ""
+		"tr": "Ottelu"
 	},
 	{
 		"or": "Max",
-		"tr": ""
+		"tr": "Maximi"
 	},
 	{
 		"or": "Misc",
-		"tr": ""
+		"tr": "Sekalaista"
 	},
 	{
 		"or": "Netversion",
-		"tr": ""
+		"tr": "Net-versio"
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "Nimi on tyhjä."
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
+		"tr": "Normaali:"
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
+		"tr": "Vain %d aktiivista pelaajaa on sallittu"
 	},
 	{
 		"or": "Personal",
-		"tr": ""
+		"tr": "Henk koh."
 	},
 	{
 		"or": "Ready",
-		"tr": ""
+		"tr": "Valmis"
 	},
 	{
 		"or": "Record",
-		"tr": ""
+		"tr": "Tallenna"
 	},
 	{
 		"or": "Recorded",
-		"tr": ""
+		"tr": "Tallenteet"
 	},
 	{
 		"or": "Reset",
-		"tr": ""
+		"tr": "Nollaa"
 	},
 	{
 		"or": "Resolutions",
-		"tr": ""
+		"tr": "Resoluutiot"
 	},
 	{
 		"or": "Respawn",
-		"tr": ""
+		"tr": "Uudelleen synny"
 	},
 	{
 		"or": "Round over",
-		"tr": ""
+		"tr": "Kierros ohi"
 	},
 	{
 		"or": "Round over!",
-		"tr": ""
+		"tr": "Kierros ohi!"
 	},
 	{
 		"or": "Sat:",
-		"tr": ""
+		"tr": "Sat:"
 	},
 	{
 		"or": "Save",
-		"tr": ""
+		"tr": "Tallenna"
 	},
 	{
 		"or": "Save skin",
-		"tr": ""
+		"tr": "Tallenna ulkonäkö"
 	},
 	{
 		"or": "Screen",
-		"tr": ""
+		"tr": "Näyttö"
 	},
 	{
 		"or": "Search:",
-		"tr": ""
+		"tr": "Etsi:"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": ""
+		"tr": "Palvelin ei salli äänestää potkia toisia pelaajia"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
+		"tr": "Palvelin ei salli äänestää siirtää pelaajia katsojiin"
 	},
 	{
 		"or": "Servers",
-		"tr": ""
+		"tr": "Palvelimet"
 	},
 	{
 		"or": "Show only chat messages from friends",
-		"tr": ""
+		"tr": "Näytä vain viestit kavereilta"
 	},
 	{
 		"or": "Size",
-		"tr": ""
+		"tr": "Koko"
 	},
 	{
 		"or": "Skin",
-		"tr": ""
+		"tr": "Ulkonäkö"
 	},
 	{
 		"or": "Spectating",
-		"tr": ""
+		"tr": "Katsotaan"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
+		"tr": "Katsojien ei sallita aloittaa äänestystä."
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
+		"tr": "Standardi Pelityyli"
 	},
 	{
 		"or": "Tattoo",
-		"tr": ""
+		"tr": "Tatuointi"
 	},
 	{
 		"or": "Tattoos",
-		"tr": ""
+		"tr": "Tatuoinnit"
 	},
 	{
 		"or": "Team:",
-		"tr": ""
+		"tr": "Joukkue:"
 	},
 	{
 		"or": "Teams are locked",
-		"tr": ""
+		"tr": "Joukkueet on lukittu"
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
+		"tr": "Joukkueet eivät ole lukittu. Aikaa odottaa ennen joukkueen vaihtoa: %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": ""
+		"tr": "Joukkueet lukittiin"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": ""
+		"tr": "Joukkueet avattiin"
 	},
 	{
 		"or": "Tee",
-		"tr": ""
+		"tr": "Tee"
 	},
 	{
 		"or": "Texture",
-		"tr": ""
+		"tr": "Tekstuuri"
 	},
 	{
 		"or": "Volume",
-		"tr": ""
+		"tr": "Äänenvoimakkuus"
 	},
 	{
 		"or": "Vote aborted",
-		"tr": ""
+		"tr": "Äänestys keskeytyi"
 	},
 	{
 		"or": "Vote failed",
-		"tr": ""
+		"tr": "Äänestys epäonnistui"
 	},
 	{
 		"or": "Vote passed",
-		"tr": ""
+		"tr": "Äänestys onnistui"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
+		"tr": "Odota nykyisen äänestyksen päättyvän ennenkuin äänestät uudelleen."
 	},
 	{
 		"or": "Wait for next round",
-		"tr": ""
+		"tr": "Odota seuraavaa kierrosta"
 	},
 	{
 		"or": "Wide",
-		"tr": ""
+		"tr": "Laaja"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
+		"tr": "Sinun täytyy odottaa %d äänestääksesi uudelleen"
 	},
 	{
 		"or": "blue",
-		"tr": ""
+		"tr": "sininen"
 	},
 	{
 		"or": "blue team",
-		"tr": ""
+		"tr": "sininen tiimi"
 	},
 	{
 		"or": "game",
-		"tr": ""
+		"tr": "peli"
 	},
 	{
 		"or": "locked",
-		"tr": ""
+		"tr": "lukittu"
 	},
 	{
 		"or": "no players",
-		"tr": ""
+		"tr": "ei pelaajia"
 	},
 	{
 		"or": "red",
-		"tr": ""
+		"tr": "punainen"
 	},
 	{
 		"or": "red team",
-		"tr": ""
+		"tr": "punaninen tiimi"
 	},
 	{
 		"or": "spectators",
-		"tr": ""
+		"tr": "katsojat"
 	},
 	{
 		"or": "wait for more players",
-		"tr": ""
+		"tr": "odota lisä pelaajia"
 	}],
 "old translations": [
 	{
@@ -1241,7 +1241,7 @@
 	},
 	{
 		"or": "Skin name",
-		"tr": ""
+		"tr": "Ulkonäön nimi"
 	},
 	{
 		"or": "Rifle",
